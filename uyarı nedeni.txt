@@ -1,0 +1,2 @@
+⚠️ False-Positive (Hatalı Alarm) Hakkında:
+PyInstaller paketlemesi ve Windows API (EmptyWorkingSet) kullanımı nedeniyle bazı antivirüsler uygulamayı yanlışlıkla uyarı olarak gösterebilir (5/70). Proje tamamen açık kaynaklıdır; kodları dilediğiniz gibi inceleyebilir veya .py dosyasını doğrudan çalıştırabilirsiniz.

@@ -1,0 +1,1 @@
+Merhaba kullanıcı eğer optimezi kullanmak istersen exe dosyanısnı yönetiic olarak çalıştırabilirsin aksi takdirde çalışmayacaktır
